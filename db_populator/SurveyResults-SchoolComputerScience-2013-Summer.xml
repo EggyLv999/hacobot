@@ -1,0 +1,1533 @@
+<NewDataSet>
+    <Table1>
+    <Course_x0020_ID>15110</Course_x0020_ID>
+
+    <Course_x0020_Name>PRINCPLS OF COMPUTNG</Course_x0020_Name>
+
+    <Section>E</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>13</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>31%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.25</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.75</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.75</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.75</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.75</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>CORTINA, T. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15110</Course_x0020_ID>
+
+    <Course_x0020_Name>PRINCPLS OF COMPUTNG</Course_x0020_Name>
+
+    <Section>S</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>10</Responses>
+
+    <Enrollment>14</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>71%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.70</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.60</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.60</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.40</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.60</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.70</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.10</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>GUNAWARDENA, A. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15110</Course_x0020_ID>
+
+    <Course_x0020_Name>PRINCPLS OF COMPUTNG</Course_x0020_Name>
+
+    <Section>U</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>3</Responses>
+
+    <Enrollment>7</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>43%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.33</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>2.33</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.67</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.33</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.33</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KESDEN, G. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15112</Course_x0020_ID>
+
+    <Course_x0020_Name>FNDMTLS OF PGMG &amp; CS</Course_x0020_Name>
+
+    <Section>E</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>29</Responses>
+
+    <Enrollment>57</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>51%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.72</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.93</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.86</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.36</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.97</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.79</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.10</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KESDEN, G. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15112</Course_x0020_ID>
+
+    <Course_x0020_Name>FNDMTLS OF PGMG &amp; CS</Course_x0020_Name>
+
+    <Section>S</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>3</Responses>
+
+    <Enrollment>11</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>27%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.67</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.67</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.33</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.33</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.67</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.67</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KESDEN, G. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15112</Course_x0020_ID>
+
+    <Course_x0020_Name>FNDMTLS OF PGMG &amp; CS</Course_x0020_Name>
+
+    <Section>U</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>6</Responses>
+
+    <Enrollment>17</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>35%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.33</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.17</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.33</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.17</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.33</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.17</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.33</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.17</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ADAMCHIK, V. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15122</Course_x0020_ID>
+
+    <Course_x0020_Name>PRIN IMPRTV COMPTATN</Course_x0020_Name>
+
+    <Section>E</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>10</Responses>
+
+    <Enrollment>12</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>83%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.10</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.60</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.10</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.10</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.40</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.20</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.30</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ANDERSON, A. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15122</Course_x0020_ID>
+
+    <Course_x0020_Name>PRIN IMPRTV COMPTATN</Course_x0020_Name>
+
+    <Section>S</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>3</Responses>
+
+    <Enrollment>17</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>18%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.67</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.33</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.33</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.67</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.67</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ADAMCHIK, V. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15122</Course_x0020_ID>
+
+    <Course_x0020_Name>PRIN IMPRTV COMPTATN</Course_x0020_Name>
+
+    <Section>U</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>13</Responses>
+
+    <Enrollment>25</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>52%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.62</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.54</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.85</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>2.62</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.69</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.08</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.46</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.46</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>CERVESATO, I. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15150</Course_x0020_ID>
+
+    <Course_x0020_Name>PRIN FNCTIONL PRGMMG</Course_x0020_Name>
+
+    <Section>S</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>11</Responses>
+
+    <Enrollment>20</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>55%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.36</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.27</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.27</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.09</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.09</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.45</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.36</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.36</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KESDEN, G. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15213</Course_x0020_ID>
+
+    <Course_x0020_Name>INTR CMPUTER SYSTEMS</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>11</Responses>
+
+    <Enrollment>30</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>37%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.64</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.55</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.45</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.18</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.36</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.55</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.18</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.40</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.36</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KESDEN, G. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15213</Course_x0020_ID>
+
+    <Course_x0020_Name>INTR CMPUTER SYSTEMS</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>1</Responses>
+
+    <Enrollment>4</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>25%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>5.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>5.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KEATING, T. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15221</Course_x0020_ID>
+
+    <Course_x0020_Name>TECHNCL COMMUNCTN CS</Course_x0020_Name>
+
+    <Section>S</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>3</Responses>
+
+    <Enrollment>10</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>30%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.67</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>5.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.67</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KESDEN, G. </Instructor>
+
+    <Dept>CS</Dept>
+
+    <Course_x0020_ID>15513</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO COMPUTER SYSTM</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>48</Responses>
+
+    <Enrollment>109</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>44%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.73</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.85</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.19</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.65</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.73</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.52</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.69</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>DATE, J.  (co-taught)</Instructor>
+
+    <Dept>HCI</Dept>
+
+    <Course_x0020_ID>05672</Course_x0020_ID>
+
+    <Course_x0020_Name>HCI PROJECT II</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>34</Responses>
+
+    <Enrollment>52</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>65%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.38</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.03</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.03</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.97</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.41</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.94</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.32</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.06</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.94</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ANGIOLILLO, C.  (co-taught)</Instructor>
+
+    <Dept>HCI</Dept>
+
+    <Course_x0020_ID>05672</Course_x0020_ID>
+
+    <Course_x0020_Name>HCI PROJECT II</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>34</Responses>
+
+    <Enrollment>52</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>65%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.18</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.93</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.96</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.18</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.43</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.11</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.79</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.18</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>TELANG, S. </Instructor>
+
+    <Dept>ISR</Dept>
+
+    <Course_x0020_ID>08721</Course_x0020_ID>
+
+    <Course_x0020_Name>EBUSINESS DISASTERS</Course_x0020_Name>
+
+    <Section>M5</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>41</Responses>
+
+    <Enrollment>43</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>95%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.59</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.51</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.51</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.39</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.44</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.34</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.80</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.54</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.41</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>LEE, E. </Instructor>
+
+    <Dept>ISR</Dept>
+
+    <Course_x0020_ID>08722</Course_x0020_ID>
+
+    <Course_x0020_Name>DATA STRCR APPL PRGM</Course_x0020_Name>
+
+    <Section>M5</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>38</Responses>
+
+    <Enrollment>44</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>86%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.82</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.79</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.84</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.37</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.74</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.79</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.82</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.79</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.82</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>JEONG, S. </Instructor>
+
+    <Dept>ISR</Dept>
+
+    <Course_x0020_ID>08723</Course_x0020_ID>
+
+    <Course_x0020_Name>MBL APPLCTN DVLP AND</Course_x0020_Name>
+
+    <Section>N6</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>21</Responses>
+
+    <Enrollment>23</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>91%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.48</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.33</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.48</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.48</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.48</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.19</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.76</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.19</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.05</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>MUSSITSCH, J. </Instructor>
+
+    <Dept>ISR</Dept>
+
+    <Course_x0020_ID>08724</Course_x0020_ID>
+
+    <Course_x0020_Name>CLIENT-SDE WEB TCHNL</Course_x0020_Name>
+
+    <Section>N6</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>28</Responses>
+
+    <Enrollment>37</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>76%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.54</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.68</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.57</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.44</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.39</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.48</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.68</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.57</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.54</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ROSSO-LLOPART, M. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17602</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO PRSNL SFTWR PR</Course_x0020_Name>
+
+    <Section>O5</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>2</Responses>
+
+    <Enrollment>7</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>29%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.50</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>5.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ROZUM, J. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17615</Course_x0020_ID>
+
+    <Course_x0020_Name>SFTWR PROCS DEFINTN</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>7</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>57%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.75</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.50</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.25</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.75</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.25</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>MIRANDA, E. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17622</Course_x0020_ID>
+
+    <Course_x0020_Name>EST SFT DEV MNTN PRJ</Course_x0020_Name>
+
+    <Section>M5</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>6</Responses>
+
+    <Enrollment>9</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>67%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.50</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.67</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.83</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.67</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.67</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.83</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.83</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>DANIEL, S. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17624</Course_x0020_ID>
+
+    <Course_x0020_Name>OPEN SOURCE SOFTWRE</Course_x0020_Name>
+
+    <Section>M6</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>2</Responses>
+
+    <Enrollment>4</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>50%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>5.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>5.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>MEAD, N. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17627</Course_x0020_ID>
+
+    <Course_x0020_Name>SFTW SECTY ENGINRG</Course_x0020_Name>
+
+    <Section>M6</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>10</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>40%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.25</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.25</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.75</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.25</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.75</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.25</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>KEELING, M. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17638</Course_x0020_ID>
+
+    <Course_x0020_Name>SYS ARCH FOR MANAGRS</Course_x0020_Name>
+
+    <Section>O6</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>7</Responses>
+
+    <Enrollment>13</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>54%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>2.86</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.43</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.71</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.14</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.71</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>2.86</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>2.71</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>GREENHALGH, D. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17653</Course_x0020_ID>
+
+    <Course_x0020_Name>MANAGE SFTWR DVLPMT</Course_x0020_Name>
+
+    <Section>O</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>11</Responses>
+
+    <Enrollment>22</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>50%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.18</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.18</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.36</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.36</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.27</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.36</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.91</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.09</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.09</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ROSSO-LLOPART, M.  (co-taught)</Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17673</Course_x0020_ID>
+
+    <Course_x0020_Name>SOFTWR DEV STUDO III</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>12</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>33%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.75</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.25</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.25</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.25</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.25</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.50</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.25</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.25</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ROOT, D.  (co-taught)</Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17673</Course_x0020_ID>
+
+    <Course_x0020_Name>SOFTWR DEV STUDO III</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>12</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>33%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.33</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.33</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.33</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>BASS, M.  (co-taught)</Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17673</Course_x0020_ID>
+
+    <Course_x0020_Name>SOFTWR DEV STUDO III</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>12</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>33%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>2.67</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>2.67</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>2.67</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>2.67</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>2.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>2.67</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>MIRANDA, E.  (co-taught)</Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17673</Course_x0020_ID>
+
+    <Course_x0020_Name>SOFTWR DEV STUDO III</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>12</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>33%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.33</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.33</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.33</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.67</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.33</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.67</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.33</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.33</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>BASS, M. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17677</Course_x0020_ID>
+
+    <Course_x0020_Name>PRACTICUM SOFT ENG I</Course_x0020_Name>
+
+    <Section>M</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>11</Responses>
+
+    <Enrollment>14</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>79%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.36</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.45</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.45</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.36</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.36</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.27</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.45</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.09</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.27</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ROOT, D.  (co-taught)</Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17677</Course_x0020_ID>
+
+    <Course_x0020_Name>PRACTICUM SOFT ENG I</Course_x0020_Name>
+
+    <Section>N</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>1</Responses>
+
+    <Enrollment>2</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>50%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>5.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>5.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>BASS, M. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17677</Course_x0020_ID>
+
+    <Course_x0020_Name>PRACTICUM SOFT ENG I</Course_x0020_Name>
+
+    <Section>O</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>11</Responses>
+
+    <Enrollment>14</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>79%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.36</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.36</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.45</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.45</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.36</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.27</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.50</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.30</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.36</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Summer</Semester>
+
+    <Year>2013</Year>
+
+    <Instructor>ROZUM, J. </Instructor>
+
+    <Dept>SE</Dept>
+
+    <Course_x0020_ID>17691</Course_x0020_ID>
+
+    <Course_x0020_Name>SOFTWARE DEVPT TOOLS</Course_x0020_Name>
+
+    <Section>O6</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>1</Responses>
+
+    <Enrollment>7</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>14%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>5.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+</NewDataSet>

@@ -1,0 +1,99 @@
+Carnegie Mellon Academic Audit
+EDGAR Y. CHEN
+Course-Requirement Matchings
+
+For BS in Computer Science, 2010
+
+Computer Science Core
+ 1. Immigration Course          : 15-128 Fall   '14 A     1.0    
+ 2. Imperative Programming      : 15-122 Fall   '14 A    10.0    
+ 3. Functional Programming      : 15-150 Spring '15 *    10.0    
+ 4. Par & Seq Data Structures   :1 unfilled course
+ 5. Intro to Computer Systems   :1 unfilled course
+ 6. Great Theoretical Ideas     : 15-251 Spring '15 *    12.0    
+ 7. Algorithm Design & Analysis :1 unfilled course
+ 8. Algorithms & Complexity Elec:1 unfilled course
+ 9. Applications Elective       : 10-601 Spring '15 *    12.0    
+10. Logics & Languages Elective :1 unfilled course
+11. Software Systems Elective   :1 unfilled course
+12. 2 SCS Electives             :2 unfilled courses
+
+Mathematics and Probability (required for Dual Degree students)
+13. Two Semesters of Calculus   : 21-120 Fall   '12 AP   10.0    
+                                  21-122 Fall   '12 AP   10.0    
+14. Concepts of Math            : 21-127 Fall   '14 A    10.0    
+15. Linear Algebra              : 21-241 Fall   '14 TR   10.0    
+16. Probability Course          : 36-225 Fall   '14 A     9.0    
+
+Humanities and Arts (ONLY 15-221 required for Dual Degree students)
+17. Writing                     : 76-101 Fall   '14 A     9.0    
+18. Technical Communication     :1 unfilled course
+19. Category 1 Breadth          : 85-251 Spring '15 *     9.0    
+20. Category 2 Breadth          : 73-100 Fall   '14 A     9.0    
+21. Category 3 Breadth          : 82-333 Spring '15 *     9.0    
+22. Humanities/Arts Electives   : 76-011 Fall   '14 AP    9.0    
+                                  82-231 Fall   '14 AP   12.0    
+                                  82-236 Fall   '14 AP    9.0    
+
+CSW
+23. Computing@Carnegie Mellon   : 99-101 Fall   '14 P     3.0    
+
+Natural Sciences and Engineering (required for Dual Degree)
+24. Two Sci/Eng, Same Dept      : 33-111 Fall   '13 AP   12.0    
+                                  33-112 Fall   '13 AP   12.0    
+25. Sci/Eng, Any Dept           : 09-105 Fall   '14 AP   10.0    
+26. Sci/Eng, Any Dept           : 38-012 Fall   '13 AP    9.0    
+
+
+For Computer Science Lab Requirement (required for Dual Degree)
+ 1. Approved for Lab            :1 unfilled course
+
+Minor/Free Electives (you fill in!)
+ 1._____________________________________________________
+ 2._____________________________________________________
+ 3._____________________________________________________
+ 4._____________________________________________________
+ 5._____________________________________________________
+ 6._____________________________________________________
+
+Not Matched:
+
+ 15-112 Fall   '12 AP   12.0     (Unused)
+ 15-131 Fall   '14 A     2.0     (Unused)
+ 21-259 Fall   '14 TR    9.0     (Unused)
+ 36-201 Fall   '13 AP    9.0     (Unused)
+
+
+ ANDREW_ID:edgarc
+CLASSLEVEL:Freshman
+   CUM_QPA:   4.00
+UNITPASSED: 186.00
+UNIT_INPRG:  52.00
+  UPCOMING:   0.00
+
+Notes:
+
+*** C O N F I D E N T I A L    D O C U M E N T ***
+
+
+This is not an official document. This report is a tool for advising and cannot be used as a University Transcript. Graduation requirements are the responsibility of the student.
+Questions? Contact your faculty advisor.
+
+Your Faculty Advisor
+Jacobo Carrasquel, GHC 6019, 268-6729, jacobo@andrew.cmu.edu
+
+To print the information: Click in this area then select Print Frame from the File menu.
+
+CMU Hub Start Over import re
+def parseaudit(instr):
+    inlist=instr.split()
+    courselist=[]
+    for word in inlist:
+        match=re.match('[0-9][0-9]\-[0-9][0-9][0-9]',word)
+        if match:
+            courselist.append(match.group(0)[:2]+match.group(0)[3:6])
+    return courselist
+
+courselist=parseaudit(raw_input())
+for course in courselist:
+    print course

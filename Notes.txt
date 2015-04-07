@@ -1,0 +1,13 @@
+sudo service mongod start|stop|restart
+sudo service gunicorn restart
+http://api.mongodb.org/python/current/tutorial.html
+nginx -s reload
+
+cat /var/log/upstart/gunicorn.log
+cat /var/log/nginx/error.log
+
+python runserver manage.py 0.0.0.0:8000 (run temporary server)
+
+https://apis.scottylabs.org/v1/schedule/F14/departments/15/courses?app_id=561374f4-f2b8-4a34-bb42-37a8b1ea4a2c&app_secret_key=d5XI0TzZdoBEVRIHOki9rg6TlGZREr6aiwUnT7yw5R8ozb4tW0_sME-g&limit=1000
+
+#[{semester: 'F14', courses: [('15122', 'Rob Simmons'), ('15112', '')]}, {

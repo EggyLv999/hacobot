@@ -1,0 +1,3351 @@
+<NewDataSet>
+    <Table1>
+    <Course_x0020_ID>70100</Course_x0020_ID>
+
+    <Course_x0020_Name>GLOBAL BUSINESS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>40</Responses>
+
+    <Enrollment>59</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>68%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.77</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.05</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.30</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.38</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.27</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.88</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.50</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.05</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.42</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.35</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>COFIELD, M. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70100</Course_x0020_ID>
+
+    <Course_x0020_Name>GLOBAL BUSINESS</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>39</Responses>
+
+    <Enrollment>58</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>67%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.92</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.95</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.41</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.44</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>2.79</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.76</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.21</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.41</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.23</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.18</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HUNTER, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70100</Course_x0020_ID>
+
+    <Course_x0020_Name>GLOBAL BUSINESS</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>31</Responses>
+
+    <Enrollment>41</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>76%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.71</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.61</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.55</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.42</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.06</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.57</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.39</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.65</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.35</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.48</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>RAMIREZ, D. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70101</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO BUSINESS MGMNT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>26</Responses>
+
+    <Enrollment>53</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>49%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.04</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.96</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.42</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.31</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.58</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.38</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.04</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.35</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.12</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.04</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>LAMONT, D. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70101</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO BUSINESS MGMNT</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>26</Responses>
+
+    <Enrollment>41</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>63%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.36</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.38</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.58</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.58</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.04</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.54</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.69</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.65</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.58</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.42</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>VARGO, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70101</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO BUSINESS MGMNT</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>8</Responses>
+
+    <Enrollment>18</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>44%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.88</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.63</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.63</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.75</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.50</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.88</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.63</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.63</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>RUCHTI, T. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70122</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO TO ACCOUNTING</Course_x0020_Name>
+
+    <Section>1</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>42</Responses>
+
+    <Enrollment>66</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>64%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>4.71</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.57</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.44</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.29</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.45</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.43</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.17</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.41</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.29</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>RUCHTI, T. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70122</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO TO ACCOUNTING</Course_x0020_Name>
+
+    <Section>2</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>32</Responses>
+
+    <Enrollment>69</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>46%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.28</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.19</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.39</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.16</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.29</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.35</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.97</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.10</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.88</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>STANTON, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70160</Course_x0020_ID>
+
+    <Course_x0020_Name>GRAPHIC MEDIA MGMT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>20</Responses>
+
+    <Enrollment>43</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>47%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>4.70</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.10</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.10</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.10</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.80</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.05</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.15</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.45</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.85</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.70</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>CAI, X. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70207</Course_x0020_ID>
+
+    <Course_x0020_Name>PROB &amp; STAT BUS APPL</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>35</Responses>
+
+    <Enrollment>60</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>58%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.43</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.24</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.86</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.89</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.94</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.71</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.59</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.53</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.56</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HELU, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70207</Course_x0020_ID>
+
+    <Course_x0020_Name>PROB &amp; STAT BUS APPL</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>12</Responses>
+
+    <Enrollment>21</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>57%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>9.45</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.50</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.83</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.64</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.75</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.75</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.75</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.25</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.75</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HELU, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70207</Course_x0020_ID>
+
+    <Course_x0020_Name>PROB &amp; STAT BUS APPL</Course_x0020_Name>
+
+    <Section>X</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>18</Responses>
+
+    <Enrollment>26</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>69%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>10.61</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.61</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.17</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.39</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.22</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.44</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.56</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.71</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.44</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.56</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HAHL, O. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70311</Course_x0020_ID>
+
+    <Course_x0020_Name>ORGNZTN BEHAVIOR</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>46</Responses>
+
+    <Enrollment>61</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>75%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.39</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.76</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.78</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.76</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.48</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.78</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.87</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.91</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.83</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.78</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HAHL, O. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70311</Course_x0020_ID>
+
+    <Course_x0020_Name>ORGNZTN BEHAVIOR</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>36</Responses>
+
+    <Enrollment>63</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>57%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.83</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.72</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.69</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.64</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.50</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.69</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.72</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.75</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.69</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.69</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>COLLIER, B. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70311</Course_x0020_ID>
+
+    <Course_x0020_Name>ORGNZTN BEHAVIOR</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>32</Responses>
+
+    <Enrollment>45</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>71%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>9.87</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.78</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.84</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.91</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.53</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.91</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.91</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.94</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.91</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.75</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>COLLIER, B. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70311</Course_x0020_ID>
+
+    <Course_x0020_Name>ORGNZTN BEHAVIOR</Course_x0020_Name>
+
+    <Section>X</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>41</Responses>
+
+    <Enrollment>45</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>91%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.49</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.40</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.49</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.46</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.24</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.44</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.51</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.71</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.51</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.40</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HYDER, E. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70321</Course_x0020_ID>
+
+    <Course_x0020_Name>NEGOTIATN CNFLCT RES</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>7</Responses>
+
+    <Enrollment>25</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>28%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.86</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.86</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.57</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.86</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.43</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.86</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.71</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.86</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.57</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.57</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>TUNGATE, D. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70332</Course_x0020_ID>
+
+    <Course_x0020_Name>BUS SOCIETY &amp; ETHICS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>31</Responses>
+
+    <Enrollment>70</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>44%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.71</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.39</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.39</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.32</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.74</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.58</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.42</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.42</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.35</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.19</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>TUNGATE, D. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70332</Course_x0020_ID>
+
+    <Course_x0020_Name>BUS SOCIETY &amp; ETHICS</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>27</Responses>
+
+    <Enrollment>46</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>59%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.89</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.22</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.22</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.04</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.81</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.48</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.48</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.30</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.11</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.15</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>WYATT, C. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70340</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS COMMUNCTNS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>23</Responses>
+
+    <Enrollment>29</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>79%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.48</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.74</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.39</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.61</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.70</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.78</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.70</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.32</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.64</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.32</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>WYATT, C. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70340</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS COMMUNCTNS</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>18</Responses>
+
+    <Enrollment>29</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>62%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.50</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.44</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.39</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.28</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.50</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.61</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.44</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.11</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>WYATT, C. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70340</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS COMMUNCTNS</Course_x0020_Name>
+
+    <Section>C</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>14</Responses>
+
+    <Enrollment>29</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>48%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.50</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.21</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.86</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.07</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.36</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.07</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.14</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.14</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MCGINNIS, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70340</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS COMMUNCTNS</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>15</Responses>
+
+    <Enrollment>23</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>65%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>16.40</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.47</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.40</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.60</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.27</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.60</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.20</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.13</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.47</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.13</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MCGINNIS, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70340</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS COMMUNCTNS</Course_x0020_Name>
+
+    <Section>X</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>15</Responses>
+
+    <Enrollment>25</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>60%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>15.07</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.60</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.60</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.60</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.47</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.80</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.67</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.27</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.47</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.60</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>KRAUT, R. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70341</Course_x0020_ID>
+
+    <Course_x0020_Name>ORG COMMUNICATION</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>5</Responses>
+
+    <Enrollment>7</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>71%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.60</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.80</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.60</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.80</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.20</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.80</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.60</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>DEEMS, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70345</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS PRSNTATIONS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>6</Responses>
+
+    <Enrollment>13</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>46%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>4.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.83</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>5.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.83</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.83</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.83</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>RUDMAN, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70345</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS PRSNTATIONS</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>9</Responses>
+
+    <Enrollment>18</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>50%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.11</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.11</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.89</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.44</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.13</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.25</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.13</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>PLACONE, R. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70345</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS PRSNTATIONS</Course_x0020_Name>
+
+    <Section>C</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>16</Responses>
+
+    <Enrollment>19</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>84%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>5.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.87</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.88</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.94</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MCGINNIS, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70348</Course_x0020_ID>
+
+    <Course_x0020_Name>CROSS CULT BUSINESS</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>7</Responses>
+
+    <Enrollment>13</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>54%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.86</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.57</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.43</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.29</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.43</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.29</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.71</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HITCH, G. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70350</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS ACTING</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>12</Responses>
+
+    <Enrollment>21</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>57%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.83</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.92</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.92</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.83</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.75</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.83</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.92</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>TUNGATE, D. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70364</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS LAW</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>28</Responses>
+
+    <Enrollment>52</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>54%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.61</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.14</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.39</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.37</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.71</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.64</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.71</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.64</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.32</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.32</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>EARLY, C. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70365</Course_x0020_ID>
+
+    <Course_x0020_Name>INT TRADE &amp; INT LAW</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>2</Responses>
+
+    <Enrollment>9</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>22%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>2.50</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>2.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.50</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.50</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>1.50</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>AKAN, M. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70371</Course_x0020_ID>
+
+    <Course_x0020_Name>OPERATIONS MGMT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>34</Responses>
+
+    <Enrollment>72</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>47%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.35</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.12</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.24</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.38</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.88</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.97</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.15</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.53</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.09</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>KEKRE, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70371</Course_x0020_ID>
+
+    <Course_x0020_Name>OPERATIONS MGMT</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>28</Responses>
+
+    <Enrollment>40</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>70%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.65</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.71</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.43</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.39</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.11</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.39</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.32</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.68</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.11</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.96</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>APT, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70376</Course_x0020_ID>
+
+    <Course_x0020_Name>ENERGY SYSTEMS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>26</Responses>
+
+    <Enrollment>33</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>79%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.85</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.27</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.46</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.88</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.27</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.08</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.85</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.85</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.69</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>ZHANG, K. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70381</Course_x0020_ID>
+
+    <Course_x0020_Name>MARKETING I</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>35</Responses>
+
+    <Enrollment>72</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>49%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.68</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.20</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.43</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.49</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.34</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.94</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.20</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.83</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.66</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>ZHANG, K. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70381</Course_x0020_ID>
+
+    <Course_x0020_Name>MARKETING I</Course_x0020_Name>
+
+    <Section>B</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>37</Responses>
+
+    <Enrollment>70</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>53%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.57</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.14</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.54</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.73</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.22</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.19</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.08</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.27</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.78</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.65</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>STUETTGEN, P. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70381</Course_x0020_ID>
+
+    <Course_x0020_Name>MARKETING I</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>20</Responses>
+
+    <Enrollment>27</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>74%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>14.53</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.95</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.05</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.89</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.65</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.85</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.90</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.80</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.74</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>STUETTGEN, P. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70381</Course_x0020_ID>
+
+    <Course_x0020_Name>MARKETING I</Course_x0020_Name>
+
+    <Section>X</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>26</Responses>
+
+    <Enrollment>30</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>87%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>10.72</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.42</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.28</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.35</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.27</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.27</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.54</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.48</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.48</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.29</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>GASPER, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70386</Course_x0020_ID>
+
+    <Course_x0020_Name>APLD BHVRL DEC MK BS</Course_x0020_Name>
+
+    <Section>W1</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>12</Responses>
+
+    <Enrollment>14</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>86%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.18</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.83</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.33</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.75</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.27</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.83</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.82</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.92</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.91</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.67</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>TELMER, C. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70391</Course_x0020_ID>
+
+    <Course_x0020_Name>FINANCE</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>70</Responses>
+
+    <Enrollment>71</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>99%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>10.23</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.87</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.89</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.79</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.47</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.14</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.49</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.61</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.57</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.55</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>FAROOQI, F. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70391</Course_x0020_ID>
+
+    <Course_x0020_Name>FINANCE</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>21</Responses>
+
+    <Enrollment>24</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>88%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>11.95</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.57</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.38</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.45</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.62</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.52</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.67</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.52</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.43</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>FAROOQI, F. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70391</Course_x0020_ID>
+
+    <Course_x0020_Name>FINANCE</Course_x0020_Name>
+
+    <Section>X</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>16</Responses>
+
+    <Enrollment>27</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>59%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>14.19</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.50</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.31</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.25</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.38</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.38</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.44</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.75</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.50</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.06</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>BOLLINGER, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70395</Course_x0020_ID>
+
+    <Course_x0020_Name>FUNDING ENTREP VENTR</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>10</Responses>
+
+    <Enrollment>25</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>40%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.30</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.40</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.90</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.90</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.30</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.60</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.30</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.20</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.90</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>EMERSON, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70395</Course_x0020_ID>
+
+    <Course_x0020_Name>FUNDING ENTREP VENTR</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>16</Responses>
+
+    <Enrollment>26</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>62%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.87</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.69</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.88</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.69</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.69</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.69</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.56</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.75</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.63</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.81</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>LAMONT, D. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70401</Course_x0020_ID>
+
+    <Course_x0020_Name>MANAGEMENT GAME</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>18</Responses>
+
+    <Enrollment>29</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>62%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>9.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.50</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.44</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.39</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.61</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.53</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.39</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.78</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.56</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.33</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MAWHINNEY, D.  (co-taught)</Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70414</Course_x0020_ID>
+
+    <Course_x0020_Name>ENTREPSHP FOR ENGRS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>16</Responses>
+
+    <Enrollment>26</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>62%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.80</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.60</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.87</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.20</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.60</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.07</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.13</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.13</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>DALEY, R.  (co-taught)</Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70414</Course_x0020_ID>
+
+    <Course_x0020_Name>ENTREPSHP FOR ENGRS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>16</Responses>
+
+    <Enrollment>26</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>62%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.60</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.63</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.06</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.19</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.25</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.69</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.25</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.44</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.38</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.13</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>JONES, H. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70415</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO ENTREPRENRSHIP</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>20</Responses>
+
+    <Enrollment>44</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>45%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.53</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.45</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.30</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.26</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.95</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.40</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.35</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.50</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.15</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.25</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>WHITE, G. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70415</Course_x0020_ID>
+
+    <Course_x0020_Name>INTRO ENTREPRENRSHIP</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>15</Responses>
+
+    <Enrollment>31</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>48%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>9.07</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.73</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.60</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.53</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.67</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.60</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.47</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.93</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.53</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.67</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MAWHINNEY, D.  (co-taught)</Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70420</Course_x0020_ID>
+
+    <Course_x0020_Name>ENTREPSHP SCIENTISTS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>19</Responses>
+
+    <Enrollment>30</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>63%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.53</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.79</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.58</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.63</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.53</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.89</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.79</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.63</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.84</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.42</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>DALEY, R.  (co-taught)</Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70420</Course_x0020_ID>
+
+    <Course_x0020_Name>ENTREPSHP SCIENTISTS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>19</Responses>
+
+    <Enrollment>30</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>63%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.63</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.83</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.39</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.61</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.56</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.78</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.72</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.83</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.83</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.61</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>COURTRIGHT, W. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70421</Course_x0020_ID>
+
+    <Course_x0020_Name>ENTREP COMP SCIENT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>4</Responses>
+
+    <Enrollment>7</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>57%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>5.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.75</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>5.00</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.75</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>5.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>5.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>5.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>LIANG, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70424</Course_x0020_ID>
+
+    <Course_x0020_Name>CORP FINAN REPTNG</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>16</Responses>
+
+    <Enrollment>17</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>94%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.40</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.69</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.44</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.31</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.81</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.44</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.07</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.81</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.19</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>OBRIEN, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70424</Course_x0020_ID>
+
+    <Course_x0020_Name>CORP FINAN REPTNG</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>15</Responses>
+
+    <Enrollment>20</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>75%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>10.85</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.40</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.47</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.53</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.27</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.67</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.20</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.93</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.40</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.33</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>LI, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70428</Course_x0020_ID>
+
+    <Course_x0020_Name>FINANCL STATMNT ANAL</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>13</Responses>
+
+    <Enrollment>30</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>43%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.77</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.46</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.23</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.46</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.15</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.15</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.77</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.15</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HUNTER, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70430</Course_x0020_ID>
+
+    <Course_x0020_Name>INTERNATNL MGMNT</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>18</Responses>
+
+    <Enrollment>33</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>55%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.39</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.11</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.50</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.33</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.17</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.50</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.22</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.72</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.33</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.22</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>ARGOTE, L. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70437</Course_x0020_ID>
+
+    <Course_x0020_Name>ORG LRNG &amp; STRAT MGT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>12</Responses>
+
+    <Enrollment>17</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>71%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.36</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.58</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.50</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.75</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.50</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.83</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.75</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.83</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.75</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.50</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>HUNTER, S. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70440</Course_x0020_ID>
+
+    <Course_x0020_Name>CORPORATE STRATEGY</Course_x0020_Name>
+
+    <Section>W</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>13</Responses>
+
+    <Enrollment>24</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>54%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.85</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.69</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.92</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.77</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.92</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.77</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.85</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.92</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>ANDERSON, K. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70449</Course_x0020_ID>
+
+    <Course_x0020_Name>SOCL ECON INF NETWKS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>10</Responses>
+
+    <Enrollment>18</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>56%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>3.90</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.70</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.70</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.80</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.00</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.70</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.60</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.60</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MONROE, R. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70451</Course_x0020_ID>
+
+    <Course_x0020_Name>MANGEMNT INFRMT SYST</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>52</Responses>
+
+    <Enrollment>58</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>90%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.12</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.83</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.77</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.79</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.50</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.73</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.87</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.88</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.85</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.75</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MONROE, R. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70453</Course_x0020_ID>
+
+    <Course_x0020_Name>BUS TECH FOR CONSLTG</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>13</Responses>
+
+    <Enrollment>20</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>65%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.36</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.54</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.46</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.38</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.46</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.23</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.38</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.46</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.23</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.08</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>KAZACHKOV, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70460</Course_x0020_ID>
+
+    <Course_x0020_Name>MATH MDLS FR CNSLTNG</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>18</Responses>
+
+    <Enrollment>27</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>67%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>9.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.44</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.17</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.28</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.72</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.33</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.78</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.56</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.72</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.22</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>TARDIF, V. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70471</Course_x0020_ID>
+
+    <Course_x0020_Name>SUPPLY CHAIN MGMT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>11</Responses>
+
+    <Enrollment>16</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>69%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.09</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.09</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.60</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.00</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.27</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.09</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.73</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.18</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.36</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.73</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>AKAN, M. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70474</Course_x0020_ID>
+
+    <Course_x0020_Name>QUALTY MGMT PRDCVTY</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>7</Responses>
+
+    <Enrollment>16</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>44%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.29</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.14</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.14</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.86</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.43</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.29</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.86</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.00</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>CORDER, L. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70481</Course_x0020_ID>
+
+    <Course_x0020_Name>MARKETING RESEARCH</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>5</Responses>
+
+    <Enrollment>9</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>56%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.20</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.80</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.40</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>5.00</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.80</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.80</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.80</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.60</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>MURPHY, M. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70483</Course_x0020_ID>
+
+    <Course_x0020_Name>ADVRTS &amp; MARKET COMM</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>6</Responses>
+
+    <Enrollment>12</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>50%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>6.50</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.67</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.67</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.67</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.50</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.83</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.50</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>5.00</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.67</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.67</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>LANKFORD, J. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70485</Course_x0020_ID>
+
+    <Course_x0020_Name>PRODUCT &amp; BRAND MGT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>13</Responses>
+
+    <Enrollment>17</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>76%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>8.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>5.00</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.38</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.69</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.15</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.85</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.69</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.92</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.69</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.62</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>PAUL, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70492</Course_x0020_ID>
+
+    <Course_x0020_Name>INVESTMENT ANALYSIS</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>28</Responses>
+
+    <Enrollment>48</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>58%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.46</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>2.96</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.32</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.36</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.11</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.18</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.21</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>3.93</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>2.93</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.25</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>KUEHN, L. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70497</Course_x0020_ID>
+
+    <Course_x0020_Name>DERIVATIVE SECURTIES</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>14</Responses>
+
+    <Enrollment>22</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>64%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>7.79</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.93</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.86</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.93</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.86</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.86</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.71</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.93</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.86</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.79</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>STANTON, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70641</Course_x0020_ID>
+
+    <Course_x0020_Name>COLOR REPROD &amp; MGMNT</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>7</Responses>
+
+    <Enrollment>8</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>88%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.00</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.57</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.00</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.86</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.29</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.14</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.86</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.29</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.00</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.83</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>STANTON, A. </Instructor>
+
+    <Dept>BA</Dept>
+
+    <Course_x0020_ID>70643</Course_x0020_ID>
+
+    <Course_x0020_Name>PUBLSHNG ON THE WWW</Course_x0020_Name>
+
+    <Section>A</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>8</Responses>
+
+    <Enrollment>18</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>44%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>5.86</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.13</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>3.75</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>3.75</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>3.63</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>3.63</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>3.25</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.25</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>3.75</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>3.38</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+  <Table1>
+
+    <Semester>Fall</Semester>
+
+    <Year>2014</Year>
+
+    <Instructor>LAMONT, D. </Instructor>
+
+    <Dept>IA</Dept>
+
+    <Course_x0020_ID>46830</Course_x0020_ID>
+
+    <Course_x0020_Name>BUSINESS FUNDAMNTALS</Course_x0020_Name>
+
+    <Section>A1</Section>
+
+    <Type>Lect</Type>
+
+    <Responses>8</Responses>
+
+    <Enrollment>35</Enrollment>
+
+    <Resp._x0020_Rate_x0020__x0025_>23%</Resp._x0020_Rate_x0020__x0025_>
+
+    <_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>12.25</_x0031__x003A__x0020_Hrs_x0020_Per_x0020_Week_x0020_9>
+
+    <_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>4.50</_x0032__x003A__x0020_Interest_x0020_in_x0020_student_x0020_learning>
+
+    <_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>4.25</_x0033__x003A__x0020_Explain_x0020_course_x0020_requirements>
+
+    <_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>4.50</_x0034__x003A__x0020_Clear_x0020_learning_x0020_goals>
+
+    <_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>4.75</_x0035__x003A__x0020_Feedback_x0020_to_x0020_students>
+
+    <_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>4.63</_x0036__x003A__x0020_Importance_x0020_of_x0020_subject>
+
+    <_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>4.38</_x0037__x003A__x0020_Explains_x0020_subject_x0020_matter_x0020_>
+
+    <_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>4.88</_x0038__x003A__x0020_Show_x0020_respect_x0020_for_x0020_students>
+
+    <_x0039__x003A__x0020_Overall_x0020_teaching>4.50</_x0039__x003A__x0020_Overall_x0020_teaching>
+
+    <_x0031_0_x003A__x0020_Overall_x0020_course>4.38</_x0031_0_x003A__x0020_Overall_x0020_course>
+
+  </Table1>
+
+</NewDataSet>

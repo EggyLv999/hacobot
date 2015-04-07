@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Sheduler</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/static/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="/static/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/static/dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/static/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+            font-size: 14px;
+        }
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+    <link href='/static/fullcalendar.css' rel='stylesheet' />
+    <link href='/static/fullcalendar.print.css' rel='stylesheet' media='print' />
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <!-- Page Content -->
+        <div id="page-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Score: {{ score }}
+                        <div role="tabpanel">
+
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs" role="tablist">
+                        {% for sem in schedule %}
+                            <li role="presentation" class="active"><a href="#{{  sem.semester }}" aria-controls="{{ sem.semester }}" role="tab" data-toggle="tab">{{ sem.semester }}</a></li>
+                        {% endfor %}
+                        </ul>
+
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                        {% for sem in schedule %}
+                            <div role="tabpanel" class="tab-pane active" id="{{ sem.semester }}">
+                                <div id='calendar-{{ sem.semester }}'></div>
+                                <table class="table table-striped table-bordered table-hover">
+                                {% for course in sem.courses %}
+                                    <tr><td>{{ course.course }}</td><td>{{ course.timings }}</td><td>{{ course.instructor }}<td>{{ course.section }}</td></tr>
+                                {% endfor %}
+                                </table>
+                            </div>
+                        {% endfor %}
+                        </div>
+
+                        </div>
+                        {% for sem in schedule %}
+                            <h1 class="page-header">{{ sem.semester }}</h1>
+                            <div id='calendar-{{ sem.semester }}'></div>
+                            <table class="table table-striped table-bordered table-hover">
+                            {% for course in sem.courses %}
+                                <tr><td>{{ course.course }}</td><td>{{ course.timings }}</td><td>{{ course.instructor }}<td>{{ course.section }}</td></tr>
+                            {% endfor %}
+                            </table>
+                        {% endfor %}
+                        
+                    </div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="/static/bower_components/jquery/dist/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    
+
+    <!-- Custom Theme JavaScript -->
+    
+    <script src='/static/lib/moment.min.js'></script>
+
+     <!-- Metis Menu Plugin JavaScript -->
+    <script src="/static/bower_components/metisMenu/dist/metisMenu.min.js"></script>
+    <script src='/static/fullcalendar.min.js'></script>
+    <script src="/static/dist/js/sb-admin-2.js"></script>
+    <script>
+        $(document).ready(function () {
+            {% for sem in schedule %}
+            $('#calendar-{{ sem.semester }}').fullCalendar({
+                allDaySlot: false,
+                columnFormat: "dddd",
+                defaultView: "agendaWeek",
+                header: false,
+                defaultDate: '1900-01-01',
+                minTime: "08:00:00",
+                maxTime: "21:30:00",
+                editable: false,
+                eventLimit: true, // allow "more" link when too many events
+                events: [
+                    {% for course in sem.courses %}
+                    {% for tim in course.jstimings %}
+                    {
+                        title: '{{ course.course }}',
+                        start: '{{ tim.0 }}',
+                        end: '{{ tim.1 }}'
+                    },
+                    {% endfor %}
+                    {% endfor %}
+                ]
+            });
+            {% endfor %}
+        });
+    </script>
+</body>
+
+</html>

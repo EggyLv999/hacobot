@@ -1,0 +1,38 @@
+= means it is a course, ie, it needs a checkbox
++ means in one level
+Overview
++=16311 Introduction to Robotics
+Controls
++=18370 Fundamentals of Control
++=24451 Feedback Control Systems
++=16299 Introduction to Feedback Control Systems
++=06464 Chemical Engineering Process Control
+Manipulation
++=16384 Robot Kinematics and Dynamics
+Robotics Electives
++=10601 Machine Learning
++=11344 Machine Learning in Practice
++=15381 Artificial Intelligence
++=15424 Foundations of Cyber-Physical Systems
++=15462 Computer Graphics
++=15463 Computational Photography
++=15491 CMRoboBits Creating Integrated Intelligent Robots
++=15494 Cognitive Robotics
++=16264 Humanoids
++=16362 Introduction to Mobile Robot Programming
++=16385 Computer Vision
++=16421 Vision Sensors
++=16597 Undergraduate Reading and Research
++=18342 Fundamentals of Embedded Systems *
++=18348 Embedded System Engineering *
++=18349 Embedded Real-Time Systems *
++=18549 Embedded Systems Design
++=18578 Mechatronic Design
++=24491 Departmental Research Honors
++=24675 Micro/Nano Robotics
++=39500 Honors Research Project
++=85370 Perception
++=85382 Consciousness and Cognition
++=85395 Applications of Cognitive Science
++=85412 Cognitive Modeling
++=85419 Introduction to Parallel Distributed Processing
