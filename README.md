@@ -1,0 +1,2 @@
+# hacobot
+This is a scheduler application for CMU. When given a list of courses to take for 2 to 8 semesters, it automatically fills in the courses and their times based on past SIO and FCE data, trying to optimize against schedule conflicts, prequisite conflicts, and for reasonable average class loads per week and units per semester, among other heuristics deemed as part of a manageable schedule. 
